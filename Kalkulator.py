@@ -7,5 +7,5 @@ print("Hasil penjumlahan = ",angkapertama+angkakedua)
 print("Hasil pengurangan = ",angkapertama-angkakedua)
 print("Hasil perkalian = ",angkapertama*angkakedua)
 print("Hasil pembagian = ",angkapertama/angkakedua)
-
 print("Hasil modulus = ",angkapertama%angkakedua)
+
