@@ -1,0 +1,5 @@
+Celcius=input("Masukkan derajat celcius = ")
+Celciusint=int(Celcius)
+print("Konversi suhu Celcius --> Fahrenheit : ",Celciusint*9/5+32)
+print("Konversi suhu Celcius --> Kelvin : ",Celciusint+273.15)
+print("Konversi suhu Celcius --> Reamur : ",Celciusint*4/5)
