@@ -1,3 +1,4 @@
+print("KONVERSI SUHU")
 Celcius=input("Masukkan derajat celcius = ")
 Celciusint=int(Celcius)
 print("Konversi suhu Celcius --> Fahrenheit : ",Celciusint*9/5+32)
