@@ -1,3 +1,4 @@
+print("KALKULATOR")
 angka1=input("Masukkan angka pertama : ")
 angka2=input("Masukkan angka kedua : ")
 angkapertama=int(angka1)
@@ -6,4 +7,5 @@ print("Hasil penjumlahan = ",angkapertama+angkakedua)
 print("Hasil pengurangan = ",angkapertama-angkakedua)
 print("Hasil perkalian = ",angkapertama*angkakedua)
 print("Hasil pembagian = ",angkapertama/angkakedua)
+
 print("Hasil modulus = ",angkapertama%angkakedua)
